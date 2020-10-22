@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Player{
 	private List<Integer> myCardPack = new ArrayList<>();
-	private int wallet = 10000;
+	private int wallet = 20000;
 	private int betting = 0;
 	
 	public void addCard(int card) {
